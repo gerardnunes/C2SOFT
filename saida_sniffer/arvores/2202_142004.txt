@@ -1,0 +1,6 @@
+[1] varint 1469478091037   (zigzag=-734739045519)
+[2] varint 8
+[5] msg
+  [1] msg
+    [1] str "motion_ctrl.actuators:cmd_limit:5968780"   → motion controle actuators comando limit 5968780 (≈ por partes)
+    [2] str "800"

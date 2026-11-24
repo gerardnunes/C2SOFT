@@ -1,0 +1,22 @@
+{
+ "versao": 3,
+ "idx": 1,
+ "params": {
+  "vel_plan_kt": 4.0,
+  "raio_chegada_m": 15.0,
+  "limite_xte_m": 20.0
+ },
+ "rotas": [
+  {
+   "nome": "MOB",
+   "cor": "#f43f5e",
+   "pontos": []
+  },
+  {
+   "nome": "Rota 2",
+   "cor": "#38bdf8",
+   "pontos": []
+  }
+ ],
+ "marcas": []
+}

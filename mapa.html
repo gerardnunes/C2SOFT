@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Mapa L42</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        body { margin: 0; padding: 0; background: #14171c; }
+        #mapa { width: 100vw; height: 100vh; background: #0f1216; }
+    </style>
+</head>
+<body>
+    <div id="mapa"></div>
+    <script>
+        // Cria o mapa com o centro inicial (Açu-RJ)
+        var mapa = L.map('mapa', { zoomControl: true, attributionControl: false }).setView([-20.3286, -40.3078], 14);
+        
+        // Adiciona as imagens do OpenStreetMap
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(mapa);
+
+        // Marcador do barco (bolinha azul)
+        var marcadorBarco = L.circleMarker([-20.3286, -40.3078], {
+            radius: 8, color: '#3b82f6', fillColor: '#3b82f6', fillOpacity: 0.8
+        }).addTo(mapa);
+
+        // Array para guardar os marcadores dos radares
+        var marcadoresRadares = [];
+
+        // Função que o Python (QWebEngineView) chama para atualizar o mapa
+        function atualizarMapa(lat, lon, radares) {
+            // Move o barco para a nova posição
+            marcadorBarco.setLatLng([lat, lon]);
+            
+            // Opcional: centraliza o mapa no barco (descomente se quiser)
+            // mapa.panTo([lat, lon]);
+
+            // Limpa os radares antigos da tela
+            marcadoresRadares.forEach(m => mapa.removeLayer(m));
+            marcadoresRadares = [];
+
+            // Desenha os novos radares
+            radares.forEach(r => {
+                // Converte X, Y (metros) para Lat/Lon
+                var lat_r = lat + (r.y / 111320);
+                var lon_r = lon + (r.x / (111320 * Math.cos(lat * Math.PI / 180)));
+                
+                var m = L.circleMarker([lat_r, lon_r], {
+                    radius: 5, color: '#f59e0b', fillColor: '#f59e0b', fillOpacity: 0.8
+                }).addTo(mapa);
+                
+                // Adiciona o nome e a distância no tooltip
+                m.bindTooltip(r.nome + ' (' + r.distancia.toFixed(0) + 'm)', { direction: 'top' });
+                marcadoresRadares.push(m);
+            });
+        }
+    </script>
+</body>
+</html>

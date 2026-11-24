@@ -1,0 +1,6 @@
+[1] varint 1469478095708   (zigzag=734739047854)
+[2] varint 8
+[8] msg
+  [1] msg
+    [1] str "search_light_info"   → search luz info (≈ por partes)
+    [2] str "{"search_light_info":{"search_light_status":0}}"   → search luz info search luz estado 0 (≈ por partes)

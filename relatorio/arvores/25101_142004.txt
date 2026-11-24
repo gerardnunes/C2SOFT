@@ -1,0 +1,211 @@
+[1] varint 1678894531262   (zigzag=839447265631)
+[2] varint 7
+[5] msg
+  [1] msg
+    [1] u64 1678894529859 (0x186e5e97d43)
+    [2] str "radar_626"   → radar 626 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529859 (0x186e5e97d43)
+      [6] varint 806210951   (zigzag=-403105476 → /1e7 = -40.310548)
+      [7] varint 406530371   (zigzag=-203265186 → /1e7 = -20.326519)
+      [11] varint 1702   (zigzag=851)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529855 (0x186e5e97d3f)
+    [2] str "radar_537"   → radar 537 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529855 (0x186e5e97d3f)
+      [6] varint 806155987   (zigzag=-403077994 → /1e7 = -40.307799)
+      [7] varint 406583123   (zigzag=-203291562 → /1e7 = -20.329156)
+      [11] varint 5132   (zigzag=2566)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529857 (0x186e5e97d41)
+    [2] str "radar_134"   → radar 134 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529857 (0x186e5e97d41)
+      [6] varint 806152539   (zigzag=-403076270 → /1e7 = -40.307627)
+      [7] varint 406635513   (zigzag=-203317757 → /1e7 = -20.331776)
+      [11] varint 1463   (zigzag=-732)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529861 (0x186e5e97d45)
+    [2] str "radar_640"   → radar 640 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529861 (0x186e5e97d45)
+      [6] varint 806180693   (zigzag=-403090347 → /1e7 = -40.309035)
+      [7] varint 406644365   (zigzag=-203322183 → /1e7 = -20.332218)
+      [11] varint 2682   (zigzag=1341)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529859 (0x186e5e97d43)
+    [2] str "radar_458"   → radar 458 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529859 (0x186e5e97d43)
+      [6] varint 806173223   (zigzag=-403086612 → /1e7 = -40.308661)
+      [7] varint 406562709   (zigzag=-203281355 → /1e7 = -20.328135)
+      [11] varint 2294   (zigzag=1147)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894531256 (0x186e5e982b8)
+    [2] str "radar_22"   → radar 22 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894531256 (0x186e5e982b8)
+      [6] varint 806206277   (zigzag=-403103139 → /1e7 = -40.310314)
+      [7] varint 406672193   (zigzag=-203336097 → /1e7 = -20.333610)
+      [10] varint 6105   (zigzag=-3053)   ← Radar X (bruto)
+      [11] varint 6105   (zigzag=-3053)   ← Radar Y (bruto)
+      [12] varint 1000   (zigzag=500)
+    [6] msg
+      [2] varint 1
+      [3] f32 0.9868
+      [4] f32 400
+      [5] f32 300
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529856 (0x186e5e97d40)
+    [2] str "radar_5"   → radar 5 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529856 (0x186e5e97d40)
+      [6] varint 806199079   (zigzag=-403099540 → /1e7 = -40.309954)
+      [7] varint 406574631   (zigzag=-203287316 → /1e7 = -20.328732)
+      [11] varint 401   (zigzag=-201)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529537 (0x186e5e97c01)
+    [2] str "radar_576"   → radar 576 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529537 (0x186e5e97c01)
+      [6] varint 806205801   (zigzag=-403102901 → /1e7 = -40.310290)
+      [7] varint 406668601   (zigzag=-203334301 → /1e7 = -20.333430)
+      [11] varint 5548   (zigzag=2774)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529856 (0x186e5e97d40)
+    [2] str "radar_378"   → radar 378 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529856 (0x186e5e97d40)
+      [6] varint 806220335   (zigzag=-403110168 → /1e7 = -40.311017)
+      [7] varint 406507969   (zigzag=-203253985 → /1e7 = -20.325398)
+      [11] varint 1414   (zigzag=707)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529858 (0x186e5e97d42)
+    [2] str "radar_2"   → radar 2 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529858 (0x186e5e97d42)
+      [6] varint 806162881   (zigzag=-403081441 → /1e7 = -40.308144)
+      [7] varint 406571561   (zigzag=-203285781 → /1e7 = -20.328578)
+      [11] varint 5072   (zigzag=2536)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894530720 (0x186e5e980a0)
+    [2] str "bs_72"   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894530720 (0x186e5e980a0)
+      [6] varint 2268612680   (zigzag=1134306340 → /1e7 = 113.430634)
+      [7] varint 436103520   (zigzag=218051760 → /1e7 = 21.805176)
+    [6] msg
+      [3] f32 1
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894524855 (0x186e5e969b7)
+    [2] str "radar_0"   → radar 0 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894524855 (0x186e5e969b7)
+      [6] varint 806268023   (zigzag=-403134012 → /1e7 = -40.313401)
+      [7] varint 406493335   (zigzag=-203246668 → /1e7 = -20.324667)
+      [11] varint 5872   (zigzag=2936)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529857 (0x186e5e97d41)
+    [2] str "radar_6"   → radar 6 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529857 (0x186e5e97d41)
+      [6] varint 806297137   (zigzag=-403148569 → /1e7 = -40.314857)
+      [7] varint 406581855   (zigzag=-203290928 → /1e7 = -20.329093)
+      [11] varint 306   (zigzag=153)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894522250 (0x186e5e95f8a)
+    [2] str "radar_436"   → radar 436 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894522250 (0x186e5e95f8a)
+      [6] varint 806223401   (zigzag=-403111701 → /1e7 = -40.311170)
+      [7] varint 406544643   (zigzag=-203272322 → /1e7 = -20.327232)
+      [11] varint 3026   (zigzag=1513)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529855 (0x186e5e97d3f)
+    [2] str "radar_150"   → radar 150 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529855 (0x186e5e97d3f)
+      [6] varint 806147559   (zigzag=-403073780 → /1e7 = -40.307378)
+      [7] varint 406665863   (zigzag=-203332932 → /1e7 = -20.333293)
+      [11] varint 5204   (zigzag=2602)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894529860 (0x186e5e97d44)
+    [2] str "radar_35"   → radar 35 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894529860 (0x186e5e97d44)
+      [6] varint 806160965   (zigzag=-403080483 → /1e7 = -40.308048)
+      [7] varint 406506705   (zigzag=-203253353 → /1e7 = -20.325335)
+      [11] varint 2966   (zigzag=1483)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.01
+      [6] f32 4
+  [1] msg
+    [1] u64 1678894507031 (0x186e5e92417)
+    [2] str "radar_457"   → radar 457 (≈ por partes)   ← Nome do alvo de radar
+    [3] (vazio)
+    [4] msg
+      [1] u64 1678894507031 (0x186e5e92417)
+      [6] varint 806167095   (zigzag=-403083548 → /1e7 = -40.308355)
+      [7] varint 406670199   (zigzag=-203335100 → /1e7 = -20.333510)
+      [11] varint 1289   (zigzag=-645)   ← Radar Y (bruto)
+    [6] msg
+      [3] f32 0.0128618
+      [6] f32 4

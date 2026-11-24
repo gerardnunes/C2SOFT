@@ -1,0 +1,339 @@
+[1] varint 1678894530230   (zigzag=839447265115)
+[2] varint 4982237   (zigzag=-2491119 → /1e7 = -0.249112)
+[6] msg
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 2360497   (zigzag=-1180249 → /1e7 = -0.118025)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7017953   (zigzag=-3508977 → /1e7 = -0.350898)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 2360499   (zigzag=-1180250 → /1e7 = -0.118025)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7149205   (zigzag=-3574603 → /1e7 = -0.357460)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7083439   (zigzag=-3541720 → /1e7 = -0.354172)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7083539   (zigzag=-3541770 → /1e7 = -0.354177)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1377807   (zigzag=-688904)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1377808   (zigzag=688904)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1049177   (zigzag=-524589)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 6952597   (zigzag=-3476299 → /1e7 = -0.347630)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 6886831   (zigzag=-3443416 → /1e7 = -0.344342)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1049178   (zigzag=524589)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7149025   (zigzag=-3574513 → /1e7 = -0.357451)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 6886931   (zigzag=-3443466 → /1e7 = -0.344347)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1049277   (zigzag=-524639)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 8067429   (zigzag=-4033715 → /1e7 = -0.403371)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 8067430   (zigzag=4033715 → /1e7 = 0.403371)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 6952417   (zigzag=-3476209 → /1e7 = -0.347621)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7214511   (zigzag=-3607256 → /1e7 = -0.360726)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7214611   (zigzag=-3607306 → /1e7 = -0.360731)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1380357   (zigzag=-690179)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1377157   (zigzag=-688579)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7083669   (zigzag=-3541835 → /1e7 = -0.354183)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1377159   (zigzag=-688580)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7017903   (zigzag=-3508952 → /1e7 = -0.350895)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7018003   (zigzag=-3509002 → /1e7 = -0.350900)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 6887061   (zigzag=-3443531 → /1e7 = -0.344353)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7083489   (zigzag=-3541745 → /1e7 = -0.354175)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 593325   (zigzag=-296663)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 591677   (zigzag=-295839)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1049227   (zigzag=-524614)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7148975   (zigzag=-3574488 → /1e7 = -0.357449)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 6886881   (zigzag=-3443441 → /1e7 = -0.344344)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7214741   (zigzag=-3607371 → /1e7 = -0.360737)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 10686469   (zigzag=-5343235 → /1e7 = -0.534323)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7149075   (zigzag=-3574538 → /1e7 = -0.357454)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 1049327   (zigzag=-524664)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 5968877   (zigzag=-2984439 → /1e7 = -0.298444)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 5968878   (zigzag=2984439 → /1e7 = 0.298444)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 5968879   (zigzag=-2984440 → /1e7 = -0.298444)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 5968880   (zigzag=2984440 → /1e7 = 0.298444)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7018133   (zigzag=-3509067 → /1e7 = -0.350907)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 6952367   (zigzag=-3476184 → /1e7 = -0.347618)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 4326677   (zigzag=-2163339 → /1e7 = -0.216334)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 6952467   (zigzag=-3476234 → /1e7 = -0.347623)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 7214561   (zigzag=-3607281 → /1e7 = -0.360728)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 4326679   (zigzag=-2163340 → /1e7 = -0.216334)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01
+  [1] msg
+    [1] u64 1678894530220 (0x186e5e97eac)
+    [2] varint 4326681   (zigzag=-2163341 → /1e7 = -0.216334)
+    [3] varint 8
+    [4] varint 8
+    [5] varint 2
+    [11] bytes[1] 01

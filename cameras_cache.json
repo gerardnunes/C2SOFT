@@ -1,0 +1,10 @@
+{
+ "Cam 7 · Rebocada": {
+  "url": "rtsp://admin:Hik12345@10.20.42.4:560/Streaming/Channels/101",
+  "motivo": "ok"
+ },
+ "Cam 2 · Noturna PROA": {
+  "url": "rtsp://admin:Hik12345@10.20.42.4:555/Streaming/Channels/101",
+  "motivo": "ok"
+ }
+}

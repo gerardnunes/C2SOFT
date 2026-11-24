@@ -1,0 +1,6 @@
+[1] varint 1678894530401   (zigzag=-839447265201)
+[2] varint 1377157   (zigzag=-688579)
+[5] msg
+  [1] varint 13   ← Nº de células da bateria
+  [2] varint 4294967283   (zigzag=-2147483642)   ← Sensor da bateria (bruto)
+  [4] f32 1808.69   ← Contador da bateria

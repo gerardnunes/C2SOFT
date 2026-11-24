@@ -1,0 +1,13 @@
+[1] varint 1469478095751   (zigzag=-734739047876)
+[2] varint 8
+[4] msg
+  [1] msg
+    [1] u64 1794633547600 (0x1a1d87ebf50)
+    [6] varint 806156435   (zigzag=-403078218 → /1e7 = -40.307822)
+    [7] varint 406572793   (zigzag=-203286397 → /1e7 = -20.328640)
+    [8] varint 89
+    [9] varint 17
+    [10] varint 158   (zigzag=79)
+    [11] varint 3140   (zigzag=1570)
+  [2] (vazio)
+  [3] (vazio)

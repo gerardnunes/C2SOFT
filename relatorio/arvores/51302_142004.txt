@@ -1,0 +1,3 @@
+[2] varint 8
+[6] msg
+  [1] str "Lower throttle 80% batt < 70%"

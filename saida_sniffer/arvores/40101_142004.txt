@@ -1,0 +1,4 @@
+[1] varint 1678894531367   (zigzag=-839447265684)
+[2] varint 7
+[4] msg
+  [1] bytes[2294] 24475224f60801fd00eef41802a00d0044af1506dc0beef002eef500ff00eeee…

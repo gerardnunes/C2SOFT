@@ -1,0 +1,39 @@
+[1] msg
+  [1] msg
+    [1] f64 1.67889e+09
+  [2] str "usv_xy_2d_id"
+  [3] str "usv_ned_id"
+  [4] msg
+    [3] f32 0.0394897
+    [4] f32 0.99922
+  [5] (vazio)
+[1] msg
+  [1] msg
+    [1] f64 1.67889e+09
+  [2] str "usv_xy_3d_id"
+  [3] str "usv_ned_id"
+  [4] msg
+    [1] f32 -0.0223027
+    [2] f32 -0.00538377
+    [3] f32 0.0393782
+    [4] f32 0.998961
+  [5] (vazio)
+[1] msg
+  [1] msg
+    [1] f64 1.67889e+09
+  [2] str "usv_enu_3d_id"
+  [3] str "usv_ned_id"
+  [4] msg
+    [1] f32 0.998961
+    [2] f32 0.0393782
+    [3] f32 0.00538377
+    [4] f32 0.0223027
+  [5] (vazio)
+[1] msg
+  [1] msg
+    [1] f64 1.67889e+09
+  [2] str "usv_ned_id"
+  [3] str "world_ned_id"
+  [4] msg
+    [4] f32 1
+  [5] (vazio)

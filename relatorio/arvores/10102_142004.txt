@@ -1,0 +1,8 @@
+[1] varint 1469478095754   (zigzag=734739047877)
+[2] varint 8
+[5] msg
+  [1] msg
+    [1] u64 1469478095754 (0x15623b84b8a)
+    [2] varint 65807   (zigzag=-32904)   ← ID do equipamento
+    [3] str "液冷机制冷"   ← Nome do equipamento
+    [5] varint 52   ← Estado bruto do equipamento

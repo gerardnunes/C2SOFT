@@ -1,0 +1,14 @@
+[2] varint 9
+[5] msg
+  [1] msg
+    [1] str "motion_ctrl.actuators:cmd_limit:5968777"   → motion controle actuators comando limit 5968777 (≈ por partes)
+    [2] str "800"
+  [1] msg
+    [1] str "motion_ctrl.actuators:cmd_limit:5968778"   → motion controle actuators comando limit 5968778 (≈ por partes)
+    [2] str "800"
+  [1] msg
+    [1] str "motion_ctrl.actuators:cmd_limit:5968779"   → motion controle actuators comando limit 5968779 (≈ por partes)
+    [2] str "800"
+  [1] msg
+    [1] str "motion_ctrl.actuators:cmd_limit:5968780"   → motion controle actuators comando limit 5968780 (≈ por partes)
+    [2] str "800"

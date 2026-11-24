@@ -1,0 +1,12 @@
+[1] varint 1678894531387   (zigzag=-839447265694)
+[2] varint 7
+[6] msg
+  [1] msg
+    [1] varint 806156435   (zigzag=-403078218 → /1e7 = -40.307822)   ← Longitude
+    [2] varint 406572793   (zigzag=-203286397 → /1e7 = -20.328640)   ← Latitude
+  [1] msg
+    [1] varint 806156435   (zigzag=-403078218 → /1e7 = -40.307822)   ← Longitude
+    [2] varint 406572793   (zigzag=-203286397 → /1e7 = -20.328640)   ← Latitude
+  [1] msg
+    [1] varint 806156435   (zigzag=-403078218 → /1e7 = -40.307822)   ← Longitude
+    [2] varint 406572793   (zigzag=-203286397 → /1e7 = -20.328640)   ← Latitude

@@ -1,0 +1,6 @@
+[1] varint 1794575928273   (zigzag=-897287964137)
+[2] varint 72
+[3] varint 7
+[4] msg
+  [1] varint 1300   (zigzag=650)
+  [2] varint 5

@@ -1,0 +1,9 @@
+[1] varint 1794575767825   (zigzag=-897287883913)
+[2] varint 72
+[3] varint 8
+[4] msg
+  [1] msg
+    [2] varint 65599   (zigzag=-32800)
+    [3] varint 11
+    [4] varint 11
+    [5] str "Masthead light"   → Luz do Mastro
